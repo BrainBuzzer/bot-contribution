@@ -38,5 +38,8 @@ module.exports = {
         })
       }
     }
-  }
+  },
+  modules: [
+    '@nuxtjs/font-awesome',
+  ]
 }

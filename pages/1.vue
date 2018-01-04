@@ -14,7 +14,7 @@
       </ol>
     </div>
     <div class="slider">
-      <nuxt-link to="/2"><div class="next"><i class="fa fa-circle-arrow-right"></i></div></nuxt-link>
+      <nuxt-link to="/2"><div class="next"><i class="fa fa-arrow-circle-right"></i></div></nuxt-link>
     </div>
   </div>
 </template>

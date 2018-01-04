@@ -12,7 +12,7 @@
       </p>
     </div>
     <div class="slider">
-      <nuxt-link to="/3"><div class="previous"><i class="fa fa-circle-arrow-left"></i></div></nuxt-link>
+      <nuxt-link to="/3"><div class="previous"><i class="fa fa-arrow-circle-left"></i></div></nuxt-link>
     </div>
   </div>
 </template>

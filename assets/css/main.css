@@ -622,7 +622,8 @@ there.
 }
 
 .slider {
-  width: 10vh;
+  height: 10vh;
+  width: 100%;
   bottom: 0;
   position: fixed;
   font-size: 3rem;

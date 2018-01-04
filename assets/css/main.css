@@ -628,27 +628,27 @@ there.
   width: 100%;
   bottom: 0;
   position: fixed;
-  font-size: 3rem;
+  font-size: 5rem;
 }
 
 .next {
-  color: #000;
+  color: #2ecc71;
   float: right;
   margin-right: 2rem;
   transition: ease 0.5s;
 }
 
 .next:hover {
-  color: #222;
+  color: #27ae60;
 }
 
 .previous {
-  color: #000;
+  color: #2ecc71;
   float: left;
   margin-left: 2rem;
   transition: ease 0.5s;
 }
 
 .previous:hover {
-  color: #222;
+  color: #27ae60;
 }

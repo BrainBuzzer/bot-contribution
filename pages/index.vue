@@ -4,10 +4,11 @@
       <h1 class="title">
         Guide to Bot Contribution
       </h1>
-      <h2 class="subtitle">
+      <h3 class="subtitle">
         This explicit interactive guide will tell you all about setting up your development
         environment.
-      </h2>
+      </h3>
+      <nuxt-link to="/1">Start the Guide</nuxt-link>
     </div>
   </section>
 </template>
@@ -22,7 +23,6 @@
 }
 
 .title {
-  font-family: "Quicksand", "Source Sans Pro", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif; /* 1 */
   display: block;
   font-weight: 300;
   font-size: 100px;

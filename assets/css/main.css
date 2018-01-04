@@ -630,9 +630,22 @@ there.
 
 .next {
   color: #000;
+  float: right;
+  margin-right: 2rem;
   transition: ease 0.5s;
 }
 
 .next:hover {
+  color: #222;
+}
+
+.previous {
+  color: #000;
+  float: left;
+  margin-left: 2rem;
+  transition: ease 0.5s;
+}
+
+.previous:hover {
   color: #222;
 }
